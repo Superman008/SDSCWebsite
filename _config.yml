@@ -33,6 +33,12 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  a0:        '#d7996d'
+  a1:        '#44877e'
+  a2:        '#d7af6d'
+  a3:        '#d56c6f'
+  a4:        '#a4c865'
+  a5:        '#358c30'
 
 kramdown:
   auto_ids:  false
