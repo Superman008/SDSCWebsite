@@ -1,8 +1,3 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Design by Amit Nijjar for Rick Wagner's Sandbox-Cluster-Guide Project - [Github](http://github.com/sdsc/sandbox-cluster-guide)
